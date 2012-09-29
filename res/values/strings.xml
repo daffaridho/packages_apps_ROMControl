@@ -534,17 +534,17 @@
 	<string name="donate_khasmek">http://nyan.cat</string>
 	<string name="donate_sethyx">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5R4DYJLDYDRAU</string>
 	<string name="devs">Developers</string>
-	<string name="aokp">Android Open Kang Project</string>
-	<string name="aokp_website_title">AOKP Website</string>
-	<string name="aokp_website_summary">www.aokp.co - Find all newest releases here.</string>
-	<string name="aokp_source_title">AOKP Source</string>
-	<string name="aokp_source_summary">AOKP is fully open source. You can always check out the latest source at github.com/aokp</string>
-    <string name="aokp_review_title">AOKP Code Review</string>
-    <string name="aokp_review_summary">AOKP\'s Gerrit Review instance for submitting and testing patches</string>
-    <string name="aokp_irc_title">Join us on IRC</string>
-    <string name="aokp_irc_summary">#teamkang @ irc.freenode.net</string>
-    <string name="about_aokp">About AOKP</string>
-    <string name="about_aokp_summary">@null</string>
+	<string name="slim">About Slim</string>
+	<string name="slim_website_title">Slim Website Website</string>
+	<string name="slim_website_summary">www.slimroms.net - Find all newest slimrom here.</string>
+	<string name="slim_source_title">Slim Source</string>
+	<string name="slim_source_summary">SlimRom is fully open source. You can always check out the latest source at github.com/SlimRoms</string>
+    <string name="slim_review_title">Slim Code Review</string>
+    <string name="slim_review_summary">Slim\'s Gerrit Review instance for submitting and testing patches</string>
+    <string name="slim_irc_title">Join us on IRC</string>
+    <string name="slim_irc_summary">#teamkang @ irc.freenode.net</string>
+    <string name="about_slim">About Slimrom</string>
+    <string name="about_slim_summary">@null</string>
 
     <!--  Kernel Tweaks -->
     <string name="pt_fast_charge_boot">Fast Charge</string>
